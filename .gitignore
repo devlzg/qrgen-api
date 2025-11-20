@@ -22,6 +22,10 @@ env/
 ENV/
 .venv
 
+# Packages
+.ruff_cache/
+.mypy_cache/
+
 # IDE
 .vscode/
 .idea/
